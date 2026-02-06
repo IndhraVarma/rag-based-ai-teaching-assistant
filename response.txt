@@ -1,0 +1,5 @@
+To resize player control icons in the web development course, you'll find this information in Video 2.
+
+At timestamp 166.0 seconds and 258.0 seconds, the instructor explains how to set the size of the icons and center icon respectively.
+
+ Go to Video 2 at timestamp 166.0 seconds and 258.0 seconds for more details on resizing player control icons.

@@ -1,0 +1,10 @@
+I have a downloaded course related to web development
+Here are the video subtitle chunks containing video title, 
+video number, start time in seconds, end time in seconds, the text at that time:
+[{"id":0,"start":0.0,"end":7.0,"text":"Now to design the player, first of all, let's set the size of our icons, which are my player control icons."},{"id":33,"start":166.0,"end":170.0,"text":"We are going to give display flex to our player controls."},{"id":78,"start":313.0,"end":318.0,"text":"So in this way, we have set our player control and its icons."},{"id":58,"start":258.0,"end":263.0,"text":"And this center icon, we will increase its size a little earlier with the help of inline styling."},{"id":32,"start":163.0,"end":166.0,"text":"That is, our player controls, let me highlight it for you."}]
+----------------------------------------------
+"Where can I find resizing of player control icons"
+User asked this question related to the video chunks, you have to answer where and how much content is taught where 
+is taught in which video (in which video at what timestamp) and guide the user to go to that particular video.
+If user asks an unrelated question, tell him you can answer only according to the course.
+Just answer the question concisely, precisely with accuracy don't give follow up questions

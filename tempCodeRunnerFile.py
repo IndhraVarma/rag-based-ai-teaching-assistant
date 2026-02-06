@@ -1,0 +1,1 @@
+MODEL_NAME = "bge-m3"
